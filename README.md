@@ -1,7 +1,7 @@
 # Mensageria Customizada
 
 Está lib tem como objetivo facilitar o processo de implementação de mensageria aos
-projetos template da 
+projetos legados. 
 
 Para adicionar mensageria ao seu projeto, basta adicionar a lib:
 
